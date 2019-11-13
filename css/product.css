@@ -1,0 +1,15 @@
+
+
+/*เนื้อหา*/
+
+ .card{
+    width: 16rem;
+    margin-top: 10px;
+     
+     
+}
+.card .card-title {
+    font-family: 'Prompt', sans-serif;
+    
+    
+}
